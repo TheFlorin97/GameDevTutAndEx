@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84eec76107baddd43963f545275224e0, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: 'Aurolacul de manie incepe sa strige cad de cruda este viata si se arunca
+    in fata autobuzului. Autobuzul trebuie sa ramana in statie din cauza incidentului.
+
+    
+
+    1.
+    O iei pe jos.'
+  nextStates:
+  - {fileID: 11400000, guid: 721043c928f978f4f8aa84d4935eec02, type: 2}

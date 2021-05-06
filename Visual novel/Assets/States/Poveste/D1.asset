@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84eec76107baddd43963f545275224e0, type: 3}
+  m_Name: D1
+  m_EditorClassIdentifier: 
+  storyText: '15 minute trec de cand mergi. Pe o alee laturanlica se aud niste zgomote
+    stranii de sabi care se freaca. Te cuprinde frica.
+
+    
+
+    1. Iti continui
+    drumul.
+
+    2. Urmezi sunetul.'
+  nextStates:
+  - {fileID: 11400000, guid: b31bc53028fbfa146a5ff4aa9a201c29, type: 2}
+  - {fileID: 11400000, guid: f4a70faaabe989b42a270ea727a0545f, type: 2}
